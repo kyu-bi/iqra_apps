@@ -56,7 +56,7 @@ flutter:
     - assets/img/menu_utama1.png
     - assets/img/menu_utama2.png
     - assets/img/splash.png
-    - assets/img/splash1.png
+   
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware
